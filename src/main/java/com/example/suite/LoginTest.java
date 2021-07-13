@@ -6,4 +6,7 @@ package com.example.suite;
  * @create 2021-07-13 14:27
  */
 public class LoginTest {
+    public void Login(){
+        System.out.println("loginTest");
+    }
 }
